@@ -25,38 +25,8 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Code-Python-blue" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow" />
-  <img src="https://img.shields.io/badge/Framework-Django-green" />
-  <img src="https://img.shields.io/badge/Framework-Express.js-lightgrey" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-blue" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-green" />
   <img src="https://img.shields.io/badge/Database-MySQL-orange" />
-  <img src="https://img.shields.io/badge/Tools-Git-black" />
-  <img src="https://img.shields.io/badge/Tools-Docker-blue" />
-</p>
-
----
-
-<!-- Projects -->
-## 🚀 Featured Projects  
-
-### 🔹 [Project 1: API Name](https://github.com/yourusername/project1)  
-- Description: A robust REST API for [specific use-case].  
-- Tech Stack: Django REST / Express.js + PostgreSQL  
-- Features: Authentication, CRUD, Documentation with Swagger  
-
-### 🔹 [Project 2: Project Name](https://github.com/yourusername/project2)  
-- Description: [Brief about the project].  
-- Tech Stack: [List stack here]  
-- Highlights: [Mention features or achievements]  
-
----
-
-<!-- Stats & Activity -->
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub streak" height="160"/>
 </p>
 
 ---
@@ -72,13 +42,10 @@
 ## 📫 Connect With Me  
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/benjamin-ampadu-0a471427a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlsFiS80tTfGzKToHsHxYsg%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" />
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:ampadubenjaminkesse@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail" />
-  </a>
-  <a href="https://twitter.com/yourtwitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow%20Me-blue?logo=twitter" />
   </a>
 </p>
